@@ -1,0 +1,40 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.message_area{
+    overflow-y: auto;
+}
+
+.incoming {
+    background: #8F88E8;
+    color: #fff;
+}
+
+.outgoing{
+    background: #e9eafd;
+    color: #787986;
+    margin-left: auto;
+}
+
+.message {
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    max-width: 300px;
+    position: relative;
+}
+
+.join{
+    text-align: center;
+}
+
+.message h4{
+    position: absolute;
+    top: -17px;
+    left: 0;
+    color: #333;
+    font-size: 14px;
+}

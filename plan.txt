@@ -1,0 +1,19 @@
+STEPS TO CREATE REAL-TIME-CHAT-APPLICATION
+
+Step 1 : Create new npm project 
+Step 2 : Create html, css and javascript files
+Step 3 : Install dependencies. express, nodemon
+Step 4 : Create an express server
+Step 5 : Do frontend part
+Step 6 : Install socket.io. Setup socket.io in server.js and client.js
+Step 7 : 
+Step 8 : 
+Step 9 : 
+Step 10 : 
+Step 11 : 
+Step 12 : 
+Step 13 : 
+Step 14 : 
+Step 15 : 
+Step 16 : 
+Step 17 : 
